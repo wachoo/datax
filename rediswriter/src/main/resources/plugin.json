@@ -1,6 +1,0 @@
-{
-    "name": "rediswriter",
-    "class": "com.alibaba.datax.plugin.writer.rediswriter.RedisWriter",
-    "description": "useScene: prod. mechanism: via jedis connect redis write data concurrent.",
-    "developer": "apus bigdata"
-}
