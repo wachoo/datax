@@ -1,0 +1,16 @@
+{
+    "name": "rediswriter",
+    "parameter":{
+        "host":"",
+        "port":6397,
+        "timeout":2000,
+        "batchSize":6000,
+        "expire":2592000,
+        "storegeType":"",
+        "format":"",
+        "slice":true,
+        "keyColumnIndex":1,
+        "customizeSeparator":"",
+        "column":[]
+    }
+}
